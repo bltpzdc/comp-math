@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7e94a57-d641-4561-af7e-76d5a3b1b9c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/applicationManager/ApplicationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entities/dot/Dot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factories/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factories/functionFactories/AbstractFunctionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factories/functionFactories/FunctionFactoryV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/ExponentialFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/QuadraticFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions/SinusoidalFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/integralMethods/IntegralMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/integralMethods/manyStepsMethod/AbstractManyStepsIntegralMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/integralMethods/manyStepsMethod/AdamsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/integralMethods/oneStepMethods/AbstractOneStepIntegralMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/integralMethods/oneStepMethods/RoungeCoutteMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/definers/Definer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/definers/startDataDefiner/AbstractStartDataDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/definers/startDataDefiner/StartDataDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/generators/DotsGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/generators/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/graphPainter/GraphPainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/graphPainter/GraphPainterV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/printer/PrinterV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/reader/ConsoleReaderV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/reader/Reader.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OMdBmTRYivVtJVPWAb2ig9QBIM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7e94a57-d641-4561-af7e-76d5a3b1b9c4" name="Changes" comment="" />
+      <created>1681374253447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681374253447</updated>
+      <workItem from="1681374255170" duration="10126000" />
+      <workItem from="1682007997507" duration="6892000" />
+      <workItem from="1682094916928" duration="3939000" />
+      <workItem from="1682434152665" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/generators/DotsGenerator.java</url>
+          <line>20</line>
+          <properties class="utils.generators.DotsGenerator" method="generate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

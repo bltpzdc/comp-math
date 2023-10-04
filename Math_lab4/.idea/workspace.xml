@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7ced76c-fd4d-4dc2-ae2f-e27fe27f13fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/applicationManager/ApplicationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/applicationManager/SeidelMethodManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/fileOpener/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/fileOpener/FileManagerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/fillers/AutoFiller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/fillers/ConsoleFiller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/fillers/FileFiller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/fillers/MatrixFiller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/matrix/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/methodinvoker/MethodInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/methodinvoker/SeidelMethodInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/readers/ConsoleReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/readers/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/readers/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/sources/Sources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/sources/sourceDefiner/SourceDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/java/application/sources/sourceDefiner/SourceDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/resources/20x20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/src/main/resources/some.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/20x20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/applicationManager/ApplicationManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/applicationManager/SeidelMethodManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/applicationManager/SeidelMethodManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/fileOpener/FileManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/fileOpener/FileManagerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/fillers/AutoFiller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/fillers/ConsoleFiller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/fillers/FileFiller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/fillers/MatrixFiller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/matrix/Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/methodinvoker/MethodInvoker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/methodinvoker/SeidelMethodInvoker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/readers/ConsoleReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/readers/FileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/readers/Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/sources/Sources.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/sources/sourceDefiner/SourceDefiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/application/sources/sourceDefiner/SourceDefinerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab1/target/classes/some.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/applicationManager/ApplicationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/applicationManager/EquationSystemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/applicationManager/OneEquationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equationSystems/EquationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equationSystems/FirstSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equationSystems/SecondSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equationSystems/systemDefiner/SystemDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equationSystems/systemDefiner/SystemDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equationSystems/systemSolver/IterationsMethodSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equationSystems/systemSolver/SystemSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/CubicEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/Equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/IrrationalEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/constantsDefiner/ConstantsDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/constantsDefiner/ConstantsDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/edgesDefiner/EdgesDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/edgesDefiner/EdgesDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/equationDefiner/EquationDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/equationDefiner/EquationDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/equationSolvers/ChordMethodSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/equationSolvers/EquationSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/equations/equationSolvers/NewtonMethodSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/managerDefiner/ManagerDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/managerDefiner/ManagerDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/readers/ConsoleReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/src/main/java/application/readers/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/applicationManager/ApplicationManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/applicationManager/EquationSystemManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/applicationManager/OneEquationManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equationSystems/EquationSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equationSystems/FirstSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equationSystems/SecondSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equationSystems/systemDefiner/SystemDefiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equationSystems/systemDefiner/SystemDefinerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equationSystems/systemSolver/IterationsMethodSolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equationSystems/systemSolver/SystemSolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/CubicEquation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/Equation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/IrrationalEquation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/QuadraticEquation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/constantsDefiner/ConstantsDefiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/constantsDefiner/ConstantsDefinerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/edgesDefiner/EdgesDefiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/edgesDefiner/EdgesDefinerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/equationDefiner/EquationDefiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/equationDefiner/EquationDefinerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/equationSolvers/ChordMethodSolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/equationSolvers/EquationSolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/equations/equationSolvers/NewtonMethodSolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/managerDefiner/ManagerDefiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/managerDefiner/ManagerDefinerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/readers/ConsoleReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab2/target/classes/application/readers/Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/answerPrinter/AnswerPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/answerPrinter/AnswerPrinterV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/applicationManager/ApplicationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/applicationManager/RectangleIntegrationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/functionDefiner/FunctionDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/functionDefiner/FunctionDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/functions/HyperbolicFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/functions/IntegrableFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/functions/IrrationalFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/functions/LinearFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/functions/QuadraticFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/functions/SinusoidalWithDiscontinuity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/readers/ConsoleReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/readers/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/sectionDefiner/SectionDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/sectionDefiner/SectionDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/solutionMethods/LeftRectanglesMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/solutionMethods/MiddleRectanglesMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/solutionMethods/RightRectanglesMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/src/main/java/application/solutionMethods/SolutionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/answerPrinter/AnswerPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/answerPrinter/AnswerPrinterV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/applicationManager/ApplicationManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/applicationManager/RectangleIntegrationManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/functionDefiner/FunctionDefiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/functionDefiner/FunctionDefinerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/functions/HyperbolicFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/functions/IntegrableFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/functions/IrrationalFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/functions/LinearFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/functions/QuadraticFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/functions/SinusoidalWithDiscontinuity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/readers/ConsoleReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/readers/Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/sectionDefiner/SectionDefiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/sectionDefiner/SectionDefinerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/solutionMethods/LeftRectanglesMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/solutionMethods/MiddleRectanglesMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/solutionMethods/RightRectanglesMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab3/target/classes/application/solutionMethods/SolutionMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/applicationManager/ApplicationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/entities/dot/Dot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/factories/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/factories/functionFactories/AbstractFunctionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/factories/functionFactories/FunctionFactoryV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/functions/ExponentialFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/functions/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/functions/QuadraticFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/functions/SinusoidalFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/integralMethods/IntegralMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/integralMethods/manyStepsMethod/AbstractManyStepsIntegralMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/integralMethods/manyStepsMethod/AdamsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/integralMethods/oneStepMethods/AbstractOneStepIntegralMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/integralMethods/oneStepMethods/RoungeCoutteMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/definers/Definer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/definers/startDataDefiner/AbstractStartDataDefiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/definers/startDataDefiner/StartDataDefinerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/generators/DotsGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/generators/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/graphPainter/GraphPainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/graphPainter/GraphPainterV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/printer/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/printer/PrinterV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/reader/ConsoleReaderV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Math_lab5/src/main/java/utils/reader/Reader.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O1DJnNryrqNU5ehAonvhXuA55W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Honor/IdeaProjects/compMath/Math_lab4&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7ced76c-fd4d-4dc2-ae2f-e27fe27f13fc" name="Changes" comment="" />
+      <created>1680719126619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680719126619</updated>
+      <workItem from="1680719128496" duration="13119000" />
+      <workItem from="1681218495349" duration="10501000" />
+      <workItem from="1681484672411" duration="3851000" />
+      <workItem from="1682084536765" duration="795000" />
+      <workItem from="1696450656527" duration="221000" />
+      <workItem from="1696450892440" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
